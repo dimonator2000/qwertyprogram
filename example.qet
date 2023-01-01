@@ -1,0 +1,9 @@
+cmd:print:{
+example
+}
+
+# # alt way
+
+cmd:console:log:{
+example
+}
